@@ -1,5 +1,5 @@
 {
-    "name": "IF-XTW",
+    "name": "monika",
     "description": "IF-XTW",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
@@ -12,7 +12,7 @@
             "value": "8f91b6a0-e8ee-11ea-adc1-0242ac120002"
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/DaoChen6/IF-XTW/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/sulywhaiter/monika/blob/master/etc/CADDYIndexPage.md",
             "value": "https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html"
         },
         "ParameterSSENCYPT": {
@@ -21,7 +21,7 @@
         },
         "StoreFiles": {
             "description": "自定义网络地址读取存储文件列表",
-            "value": "https://raw.githubusercontent.com/DaoChen6/IF-XTW/master/etc/StoreFiles"
+            "value": "https://raw.githubusercontent.com/sulywhaiter/monika/master/etc/StoreFiles"
         }
     },
     "repository": "",
